@@ -38,3 +38,7 @@ Academic software prototype and proposed architecture. This is not an official T
 ### Security
 
 Never commit credentials, webhook URLs, access tokens, or other secrets to the repository.
+
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5a95064d-a80d-4147-aef7-f1e27bbfc412" />
